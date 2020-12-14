@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Fanxing Security 1.3.6',
   description: 'Fanxing Security',
-  base: '/',
+  base: '/docs',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
